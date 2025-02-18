@@ -60,7 +60,6 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arindam&theme=radical">
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arindam&theme=radical&utcOffset=8">
 <img height="166em" src="https://github-readme-stats.vercel.app/api?username=Arindam&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=Arindam&theme=radical">
 
 </div><br>
 
@@ -72,9 +71,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Arindam&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 ### 🎎 Visitors count: <p align="center">

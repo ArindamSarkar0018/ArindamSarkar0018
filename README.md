@@ -1,4 +1,4 @@
-<img width=100% src="[https://github.com/Arindam/Arindam/blob/master/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png](https://github.com/ArindamSarkar0018/ArindamSarkar0018/blob/main/Git.png)?type=waving&color=6499E9&height=90&section=header"/>
+<img width=100% src="[https://github.com/Arindam/Arindam/blob/master/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?type=waving&color=6499E9&height=90&section=header"/>
 
 <div id="header" align="center">
 

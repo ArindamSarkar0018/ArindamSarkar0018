@@ -1,8 +1,8 @@
-<img width=100% src="https://github.com/Reetika/Reetika/blob/master/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?type=waving&color=6499E9&height=90&section=header"/>
+<img width=100% src="https://github.com/Arindam/Arindam/blob/master/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?type=waving&color=6499E9&height=90&section=header"/>
 
 <div id="header" align="center">
 
-<h1>Heya there, Reetika this side!<img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
+<h1>Heya there, Arindam this side 😎!<img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ### 💫 About Me
 
-- 🎓 I'm a Student and Web Developer.
+- 🎓 I'm a Software Developer & Analyst.
 - 🔭 I’m currently working on Web Development and DSA.
 - 🌱 I’m currently learning Cloud Computing & DevOps.
 - 👯 I’m looking to collaborate with open source enthusiasts and developers.
@@ -29,9 +29,9 @@
 
 <div align="center">
 
-<a href="https://instagram.com/___a_sh_i_sh___" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://linkedin.com/in/ashish-ranjan-699436197" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/ashishrrr09" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
 </div>
 
@@ -54,18 +54,18 @@
 
 <div align="center">
 
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reetika&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Reetika&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Reetika&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Reetika&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Reetika&theme=radical&utcOffset=8">
-<img height="166em" src="https://github-readme-stats.vercel.app/api?username=Reetika&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=Reetika&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArindamSarkar0018&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArindamSarkar0018&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArindamSarkar0018&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arindam&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arindam&theme=radical&utcOffset=8">
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=Arindam&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=Arindam&theme=radical">
 
 </div><br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Reetika&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Arindam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
 [![](https://user-images.githubusercontent.com/81325730/209661030-9490803c-c1ba-4f4e-80ca-4159996b8e0c.png)]()
@@ -74,7 +74,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Reetika&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Arindam&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
 <p align="center">
@@ -89,6 +89,6 @@
 
 ---
 ### 🎎 Visitors count: <p align="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Reetika&label=Profile%20views&color=0e75b6&style=flat" alt="somnath0904" /> </p> <br>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arindam&label=Profile%20views&color=0e75b6&style=flat" alt="somnath0904" /> </p> <br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>

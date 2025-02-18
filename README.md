@@ -69,6 +69,10 @@
 ## 🐦 Latest Tweet
 [![](https://user-images.githubusercontent.com/81325730/209661030-9490803c-c1ba-4f4e-80ca-4159996b8e0c.png)]()
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" height="500" width="700" />
+</p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
